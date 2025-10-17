@@ -15,6 +15,6 @@ class MainTest {
 
 }
 
-class Password {
-	string secretPassword = "123456";
-}
+// class Password {
+// 	string secretPassword = "123456";
+// }
