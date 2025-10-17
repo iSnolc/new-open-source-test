@@ -14,3 +14,7 @@ class MainTest {
 	}
 
 }
+
+class Password {
+	string secretPassword = "123456";
+}
