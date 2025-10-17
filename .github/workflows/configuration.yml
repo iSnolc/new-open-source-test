@@ -40,7 +40,7 @@ jobs:
         with:
           languages: ${{ matrix.language }}
 
-          queries: ./.github/codeql/queries/customize, security-extended,security-and-quality
+          queries: ./.github/codeql/queries/customize, security-extended, security-and-quality
           # queries: ./.github/codeql/queries/customize
           # config-file: .github/codeql/codeql-config.yml # 指定配置文件的路径
 
